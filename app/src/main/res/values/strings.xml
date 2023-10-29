@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="restaurant_name">Linjekiosken</string>
+    <string-array name="menu_sections">
+        <item>Förrätter</item>
+        <item>Huvudrätter</item>
+        <item>Efterrätter</item>
+    </string-array>
+    <string-array name="forratt_names">
+        <item>Tabbouleh</item>
+        <item>Kibbeh</item>
+        <item>Meze</item>
+    </string-array>
+    <string-array name="forratt_descriptions">
+        <item1>Tabbouleh är en underbart smakrik sallad med massor av bladpersilja och mynta.
+            Den passar alldeles utmärkt att servera till allt från lammstek och kyckling till lax och falafel.</item1>
+        <item2>I hjärtat av det libanesiska köket hittar vi kibbeh (kebbeh, kubbah).
+            Den klassiska varianten är dessa friterade kibbeh där ett skal av kött och bulgur fylls med stekt kött, pinjenötter och lök.
+            Det är den som ofta erbjuds på libanesiska restauranger. </item2>
+        <item3>Meze är orientaliska smårätter som serveras tillsammans.
+            En härlig blandning av sallader, röror, köttspett, inlagda grönsaker och sötsaker som ofta trängs tillsammans.</item3>
+    </string-array>
+    <string-array name="huvudratt_names">
+        <item4>Shawarma Arabi</item4>
+        <item5>Lammstek &amp; ris</item5>
+        <item6>Maklobe</item6>
+    </string-array>
+    <string-array name="huvudratt_descriptions">
+        <item>schawarma, sjaverma, sjaurma) är en maträtt från Mellanöstern som liknar kebab.
+            Den består av ett stycke skurna köttbitar, oftast lamm eller kyckling som roterar och grillas samtidigt. Köttet har en specifik smak av kryddpeppar och brukar även kryddas med vinäger.</item>
+        <item>en favorit från Mellanöstern.
+            Lammstek som får koka sig riktigt mör under lock med ingefära, tomat, torkad lime, kanel, kardemumma och saffran.</item>
+        <item>En festlig allt-i-ett rätt med kyckling, ris och grönsaker.
+            Det speciella är att man vänder den upp och ner när den ska serveras.
+            Vi använder kycklinglår med ben - de ger god smak till buljongen.</item>
+    </string-array>
+
+    <string-array name="efterratt_names">
+        <item7>Knafeh</item7>
+        <item8>Baklawa</item8>
+        <item9>Layali lubnan</item9>
+    </string-array>
+    <string-array name="efteratt_descriptions">
+        <item>Osmalieh eller kunafa som den också kallas är en dessert från Mellanöstern/Turkiet.
+            Den görs av långa, tunna spaghettiliknande trådar som heter kataifi/kadayif.
+            Man bakar trådarna i smör först för att få dem krispiga och sen lägger man en krämig fyllning mellan.</item>
+        <item>Baklava är ett sött bakverk i huvudsak nyttjat som dessert.
+            Rätten har sitt ursprung i de kejserliga köken i Topkapıpalatset i Istanbul i Osmanska riket.</item>
+        <item>Layali lubnan betyder "libanesiska nätter" och är namnet på denna favoritdessert från Mellanöstern.
+            God krämig mannagrynskaka som du enkelt slänger ihop.</item>
+    </string-array>
+
+
+</resources>
